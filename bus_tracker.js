@@ -4,7 +4,7 @@ const iconSize = 20;
 let timer = null;
 
 async function updateLocations() {
-    // get bus data    
+  // get bus data    
 	const locations = await getBuses();
 
 	locations.forEach((bus) => {
