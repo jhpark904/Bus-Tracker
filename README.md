@@ -30,3 +30,4 @@ Improvements Roadmap:
 - Mapbox GL JS library: For providing the map on the screen
 
 ## License
+[MIT LICENSE](LICENSE)
